@@ -1,5 +1,9 @@
 TunSecur Project
 ================
+Windows cross build
+set GOOS=linux 
+set GOARCH=amd64 
+set CGO_ENABLED=0 
 
 Open source security software developed by St2Py team
 
